@@ -1,8 +1,8 @@
 ---
-title: 20260201
+title: 通过vps连接linux和外网
 date: 2026-02-01 13:47:42
 tags: [tech]
-category: diary
+category: tech
 ---
 
 今日关键词：clawdbot，nips，digitalocean，talescale, WireGuard
