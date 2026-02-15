@@ -5,8 +5,6 @@ tags: [tech, report]
 category: tech
 ---
 
-1. ssh 跳板机器
-2. 
 
 最初情况：pip直接下载环境，下载模型太慢，希望能直连外网加速模型下载。
 
@@ -21,6 +19,8 @@ category: tech
 感觉最好的方式还是直接用clash这种vpn。
 
 # 更新：clash过于简单，几乎是一键修好（能在wsl用）
+
+
 
 🔖 目标
 
